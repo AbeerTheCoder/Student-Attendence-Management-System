@@ -1,4 +1,4 @@
-##student-Attendance App
+##student-Attendance App (Project of 2)
 
 you will need to install all thesew before running:
 
