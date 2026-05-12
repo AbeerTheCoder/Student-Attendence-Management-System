@@ -1,6 +1,6 @@
-##Student-Attendance-Management-System (Project of 2)
+# Student-Attendance-Management-System (Project of 2)
 
-you will need to install all thesew before running:
+you will need to install all these before running:
 
 - Before you install all these make sure your in the correct directory, you can change this in the terminal using 'cd YOUR-DIRECTORY'
 
