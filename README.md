@@ -6,7 +6,7 @@ The student attendance management system is a web-based application designed to 
 ## Project Timeline
 - **Creation Date**: October 2024
 
-## Features
+## Key Features
 - **Monitoring:** View attendance records
 - **User Authentication:** Secure login for users
   
